@@ -1,12 +1,13 @@
 <script setup>
 // import Vue2Search from "./components/Vue2Search.vue";
-import BlogPostList from "./components/BlogPostList.vue"
+// import BlogPostList from "./components/BlogPostList.vue"
+import MessageList from "./components/MessageList.vue";
 </script>
 
 <template>
   <div>
     <!-- <Vue2Search /> -->
-    <BlogPostList />
+    <MessageList />
   </div>
 </template>
 
